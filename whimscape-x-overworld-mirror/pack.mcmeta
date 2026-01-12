@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 18,
-    "supported_formats": [18, 34],
+    "pack_format": 34,
     "description": "Whimscape x Overworld Mirror"
   }
 }
